@@ -1,0 +1,39 @@
+body {
+    color: #f7f7f7;
+}
+
+.jumbotron {
+    background-image: url("images/bac.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+div {
+    color: black;
+}
+
+h5 {
+    text-decoration: underline;
+    font-weight: bold
+}
+
+#selDataset {
+    font-size: 15px
+}
+
+h3 {
+    text-decoration: underline;
+    font-weight: bold
+}
+
+col-md-5 {
+    font-family: Geneva;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+col-md-12 {
+    font-family: Geneva;
+    font-weight: bold;
+    font-size: 15px;
+}
