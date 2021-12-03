@@ -11,7 +11,7 @@ In the past scientists took cells from a cow and, at an institute in the Netherl
  
 To help Rosa I have created an interactive chart that can filter and show data for each individual, I have received data in Json format, I have written JavaScript code to read and convert the data to the charts in dashboard. I received 3 sets of data in that json file metadata {}, names {} and samples {}.
 
-I have created a bar chart to show top 10 species of bacteria for a particular individual, Test Subject Id no represents the person donated microbes’ samples and details related to microbes in their belly button is stored in sample {}, So Rosa can filter each person and check the diversity of the microbes and pick the one she is looking for to create the synthetic beef.Each persons  individual profiles are bacterially unique. Washing frequency can be one important detail that affects what type of bacteria a person carries so to see correlation I have created a guage chart for washing frequency as well.
+I have created a bar chart to show top 10 species of bacteria for a particular individual, 'Test Subject Id no.' represents the person donated microbes’ samples and details related to microbes in their belly button is stored in sample {}, So Rosa can filter each person and check the diversity of the microbes and pick the one she is looking for to create the synthetic beef.Each persons  individual profiles are bacterially unique. Washing frequency can be one important detail that affects what type of bacteria a person carries so to see correlation I have created a guage chart for washing frequency as well.
 
 ![image](images/key_value.PNG)
 
