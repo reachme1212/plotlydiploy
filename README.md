@@ -13,13 +13,13 @@ To help Rosa I have created an interactive chart that can filter and show data f
 
 I have created a bar chart to show top 10 species of bacteria for a particular individual, Test Subject Id no represents the person donated microbes’ samples and details related to microbes in their belly button is stored in sample {}, So Rosa can filter each person and check the diversity of the microbes and pick the one she is looking for to create the synthetic beef.Each persons  individual profiles are bacterially unique. Washing frequency can be one important detail that affects what type of bacteria a person carries so to see correlation I have created a guage chart for washing frequency as well.
 
-![image](key_value.PNG)
+![image](images/key_value.PNG)
 
-![image](bar.PNG)
+![image](images/bar.PNG)
 
-![image](bubble.PNG)
+![image](images/bubble.PNG)
 
-![image](gauge.PNG)
+![image](images/gauge.PNG)
 
 **Dashboard** [lets go to](https://reachme1212.github.io/plotlydiploy/)
 
