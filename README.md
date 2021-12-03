@@ -1,5 +1,5 @@
-## Belly Button Biodiversity analysis
-# html ,javascript, plotly
+# Belly Button Biodiversity analysis
+## html ,javascript, plotly
 
 **Overview of the analysis:**
 
