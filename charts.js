@@ -104,7 +104,7 @@ function buildCharts(sample) {
             marker: {
                 color: ids,
                 size: values,
-                colorscale: "Earth"
+                colorscale: "Picnic"
             }
         }];
 
@@ -129,18 +129,16 @@ function buildCharts(sample) {
                 },
                 bar: { color: "#424949 " },
                 steps: [{ range: [0, 2], color: "#EC7063" },
-                    { range: [2, 4], color: "#F5B041" },
-                    { range: [4, 6], color: "#F7DC6F " },
-                    { range: [6, 8], color: "#82E0AA" },
-                    { range: [8, 10], color: "#1E8449 " },
+                    { range: [2, 4], color: "#F1948A" },
+                    { range: [4, 6], color: "#F5B7B1 " },
+                    { range: [6, 8], color: "#FADBD8 " },
+                    { range: [8, 10], color: "#FDEDEC  " },
                 ]
 
             },
 
 
-            marker: {
 
-            },
 
         }];
 
